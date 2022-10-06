@@ -1,0 +1,23 @@
+.button {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  color: white;
+  background-color: rgb(75, 11, 85);
+  border-color: transparent;
+  cursor: pointer;
+}
+
+/* .button--error {
+  background-color: rgb(224, 108, 117);
+  color: white;
+}
+
+.button-confirmation {
+  background-color: rgb(255, 202, 40);
+  color: white;
+}
+
+.button-success {
+  background-color: rgb(128, 177, 72);
+  color: white;
+} */
